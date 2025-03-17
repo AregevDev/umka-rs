@@ -1,0 +1,8 @@
+[package]
+name = "umka"
+version = "0.0.0"
+edition = "2024"
+description = "Reserved for the Umka programming language Rust bindings."
+license = "Apache-2.0"
+
+[dependencies]
